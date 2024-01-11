@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">👨‍💻 Android app developer<br>🎓 ALX SE student at Holberton School<br>🌍 @alx_africa #alxafrica #Cohort_13</p>
+<p align="left">👨‍💻 Backend Engineer <br>🎓 ALX SE student at Holberton School<br>🌍 @alx_africa #alxafrica #Cohort_13</p>
 
 ###
 
