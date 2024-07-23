@@ -1,4 +1,4 @@
-<h1 align="center">Hello👋 this  is Emad</h1>
+<h1 align="center">Hello👋 this is Emad</h1>
 
 ###
 
@@ -23,28 +23,46 @@
 
 ###
 
-<p align="left">👨‍💻 Backend Engineer <br>🎓 ALX SE student at Holberton School<br>🌍 @alx_africa #alxafrica #Cohort_13</p>
+<p align="left">
+  👨‍💻 Backend Engineer <br>
+  A Backend Software Engineer with a passion for learning and exploring new domains. I am skilled in Python and NodeJs, with experience working in a microservices environment.
+</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Skills and Frameworks</h3>
 
 ###
-- FastAPI
-- Django
-- SQL / Postgres
-- Python
-- JavaScript
-- C
-- Bash
-- Docker
-- Kafka
-- Next.js (familiarity)
-- Postman
-- VScode
-- Linux
-- Node.js
+
+- **Languages and Tools:**
+
+  - Python
+  - JavaScript
+  - C
+  - Bash
+  - SQL
+  - Node.js
+  - Docker
+  - Git
+  - Linux
+  - TypeScript
+  - Kafka
+  - Redis
+  - Nginx
+
+- **Frameworks and Libraries:**
+
+  - FastAPI
+  - Express
+  - Next.js
+  - Prisma
+  - Flask
+  - NextAuth
+  - OpenAI API
+
+- **Other Technologies:**
+  - Web3
+  - WebSocket
+  - WebRTC
 
 <br clear="both">
-
-
